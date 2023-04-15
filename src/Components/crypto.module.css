@@ -1,0 +1,32 @@
+.maindiv{
+    display: flex;
+    gap: 5rem;
+    justify-content: center;
+    margin-top: 5rem;
+ 
+  }
+
+  .mapData{
+  
+    border: 1px solid black;
+    width: 10rem;
+    height: 12rem;
+    padding-top: 1rem;
+    box-shadow: rgba(0, 0, 0, 0.24) 0px 3px 8px;
+}
+
+img{
+  width: 4rem;
+}
+
+.btn{
+  margin-top: 2rem;
+  box-shadow: rgba(0, 0, 0, 0.24) 0px 3px 8px;
+}
+input{
+    width: 4rem;
+  }
+  
+  h4{
+    margin-left: 8rem;
+  }
